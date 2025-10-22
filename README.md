@@ -1,6 +1,6 @@
 # Health-Insurance-Premium-Calculator
 
-<img src="health-insurnace-pic.avif" alt="App Screenshot" width="600">
+<img src="health-insurnace-cover.png" alt="App Screenshot" width="600">
 
 Enter details and receive a health insurance quote
 
