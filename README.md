@@ -1,7 +1,7 @@
 # Health-Insurance-Premium-Calculator
 
 <p align="center">
-  <img src="cover.png" alt="Health Insurance Premium App Banner" width="800">
+  <img src="health-insurance-cover.png" alt="Health Insurance Premium App Banner" width="800">
 </p>
 
 <h1 align="center">🏥 Health Insurance Premium Prediction App</h1>
